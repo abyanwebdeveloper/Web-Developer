@@ -1,0 +1,96 @@
+FOTO PRODUK — TokoKita (localhost)
+Sumber: Wikimedia Commons (commons.wikimedia.org), lisensi bebas.
+======================================================================
+
+beras.jpg
+  Judul   : File:Long grain rice.jpg
+  Penulis : Gaurav Dhwaj Khadka
+  Lisensi : CC BY-SA 4.0
+  Sumber  : https://commons.wikimedia.org/wiki/File:Long_grain_rice.jpg
+
+minyak.jpg
+  Judul   : File:Butter and Oil - NCI Visuals Online.jpg
+  Penulis : Bill Branson (photographer)
+  Lisensi : Public domain
+  Sumber  : https://commons.wikimedia.org/wiki/File:Butter_and_Oil_-_NCI_Visuals_Online.jpg
+
+gula.jpg
+  Judul   : File:Bowl of white sugar without background.jpg
+  Penulis : Douglas P Perkins
+  Lisensi : CC BY 3.0
+  Sumber  : https://commons.wikimedia.org/wiki/File:Bowl_of_white_sugar_without_background.jpg
+
+telur.jpg
+  Judul   : File:Chicken eggs 20101113.jpg
+  Penulis : Batholith (talk)
+  Lisensi : Public domain
+  Sumber  : https://commons.wikimedia.org/wiki/File:Chicken_eggs_20101113.jpg
+
+kopi-susu.jpg
+  Judul   : File:A glass of Ipoh iced white coffee.jpg
+  Penulis : Charles Haynes from Hobart, Australia
+  Lisensi : CC BY-SA 2.0
+  Sumber  : https://commons.wikimedia.org/wiki/File:A_glass_of_Ipoh_iced_white_coffee.jpg
+
+susu-cokelat.jpg
+  Judul   : File:Chocolate milk.JPG
+  Penulis : stevepb
+  Lisensi : CC0
+  Sumber  : https://commons.wikimedia.org/wiki/File:Chocolate_milk.JPG
+
+roti.jpg
+  Judul   : File:Vegan no-knead whole wheat bread loaf, September 2010.jpg
+  Penulis : Veganbaking.net
+  Lisensi : CC BY-SA 2.0
+  Sumber  : https://commons.wikimedia.org/wiki/File:Vegan_no-knead_whole_wheat_bread_loaf,_September_2010.jpg
+FOTO PRODUK — TokoKita (localhost)
+Sumber: Wikimedia Commons (commons.wikimedia.org), lisensi bebas.
+======================================================================
+
+beras.jpg
+  Judul   : File:Long grain rice.jpg
+  Penulis : Gaurav Dhwaj Khadka
+  Lisensi : CC BY-SA 4.0
+  Sumber  : https://commons.wikimedia.org/wiki/File:Long_grain_rice.jpg
+
+minyak.jpg
+  Judul   : File:Butter and Oil - NCI Visuals Online.jpg
+  Penulis : Bill Branson (photographer)
+  Lisensi : Public domain
+  Sumber  : https://commons.wikimedia.org/wiki/File:Butter_and_Oil_-_NCI_Visuals_Online.jpg
+
+gula.jpg
+  Judul   : File:Bowl of white sugar without background.jpg
+  Penulis : Douglas P Perkins
+  Lisensi : CC BY 3.0
+  Sumber  : https://commons.wikimedia.org/wiki/File:Bowl_of_white_sugar_without_background.jpg
+
+telur.jpg
+  Judul   : File:Chicken eggs 20101113.jpg
+  Penulis : Batholith (talk)
+  Lisensi : Public domain
+  Sumber  : https://commons.wikimedia.org/wiki/File:Chicken_eggs_20101113.jpg
+
+kopi-susu.jpg
+  Judul   : File:A glass of Ipoh iced white coffee.jpg
+  Penulis : Charles Haynes from Hobart, Australia
+  Lisensi : CC BY-SA 2.0
+  Sumber  : https://commons.wikimedia.org/wiki/File:A_glass_of_Ipoh_iced_white_coffee.jpg
+
+susu-cokelat.jpg
+  Judul   : File:Chocolate milk.JPG
+  Penulis : stevepb
+  Lisensi : CC0
+  Sumber  : https://commons.wikimedia.org/wiki/File:Chocolate_milk.JPG
+
+roti.jpg
+  Judul   : File:Vegan no-knead whole wheat bread loaf, September 2010.jpg
+  Penulis : Veganbaking.net
+  Lisensi : CC BY-SA 2.0
+  Sumber  : https://commons.wikimedia.org/wiki/File:Vegan_no-knead_whole_wheat_bread_loaf,_September_2010.jpg
+
+mie-instan.jpg
+  Judul   : File:Shinramyun contents.jpg
+  Penulis : Unknown
+  Lisensi : Public domain
+  Sumber  : https://commons.wikimedia.org/wiki/File:Shinramyun_contents.jpg

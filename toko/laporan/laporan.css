@@ -1,0 +1,65 @@
+/* Halaman laporan TokoKita */
+.period-label {
+    font-size: 14px;
+    color: #6b8079;
+}
+
+.period-label strong { color: #18332f; }
+
+.laporan-table thead th {
+    font-size: 11px;
+    letter-spacing: .6px;
+    color: #6b8079;
+    border-bottom: 1px solid #e3ece9;
+    background: #fbfdfc;
+}
+
+.laporan-table tfoot td {
+    border-top: 2px solid #d5e4de;
+}
+
+/* Mode cetak */
+.print-sheet {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 10px;
+    background: #fff;
+}
+
+.print-head {
+    border-bottom: 3px double #103b34;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.print-head h2 {
+    margin: 0;
+    font-weight: 800;
+    letter-spacing: -.5px;
+}
+
+.print-head p { margin: 6px 0 0; color: #6b8079; font-size: 13.5px; }
+
+.print-sign {
+    margin-top: 44px;
+    margin-left: auto;
+    width: 230px;
+    text-align: center;
+    font-size: 14px;
+}
+
+.sign-name {
+    margin-top: 52px;
+    font-weight: 800;
+    border-top: 1px solid #18332f;
+    padding-top: 5px;
+}
+
+@media print {
+    .no-print { display: none !important; }
+    body { background: #fff; }
+    .print-sheet { max-width: none; padding: 0; }
+    .stat-tile { box-shadow: none; }
+    @page { size: A4; margin: 14mm; }
+}
